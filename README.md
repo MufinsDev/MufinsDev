@@ -1,46 +1,148 @@
+# ⚒️ Skills & Technologies
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Mufin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-# 👋 Hey, I'm Mufin
-
-### 💻 Backend Developer • Minecraft Developer • Software Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Java+Developer;Minecraft+Plugin+Developer;Backend+Systems+Developer;Gradle+%2F+Database+Developer;Paper+%26+Spigot+Developer;AntiCheat+Systems+Developer"/>
-
-<br>
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,php,html,css,mysql,gradle,git,github,linux,idea,vscode"/>
 
 </div>
 
 ---
 
-# 🧠 About Me
+# 💻 Programming Languages
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<div align="center">
 
-```yaml
-Name: Mufin
+| Language | Level |
+|---|---|
+| ☕ Java | Advanced |
+| 🟣 Kotlin | Intermediate |
+| 🐍 Python | Intermediate |
+| 🐘 PHP | Intermediate |
+| 🌐 HTML | Advanced |
+| 🎨 CSS | Advanced |
+| 🗄️ SQL | Advanced |
+| ⚙️ Groovy | Intermediate |
 
-Role:
-  - Backend Developer
-  - Minecraft Developer
-  - Plugin Creator
+</div>
 
-Focus:
-  - Minecraft Plugins
-  - AntiCheat Systems
-  - Backend Infrastructure
-  - Performance Optimization
-  - Database Systems
+<div align="center">
 
-Currently Working On:
-  - TickShield AntiCheat
-  - Backend Utilities
-  - Minecraft Server Tools
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,php,html,css"/>
 
-Learning:
-  - JVM Optimization
-  - Detection Algorithms
-  - Advanced Backend Systems
+</div>
+
+---
+
+# 🗄️ Database Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</div>
+
+### Databases & SQL
+- MySQL
+- MariaDB
+- SQL Database Management
+- Query Optimization
+- Database Design
+- Performance Tuning
+
+---
+
+# ⚙️ Build Tools & Frameworks
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=gradle"/>
+
+</div>
+
+### Frameworks & Tools
+- Gradle
+- Groovy DSL
+- Dependency Management
+- Build Automation
+- Project Structuring
+
+---
+
+# 🛡️ Minecraft Development Skills
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="420"/>
+
+</div>
+
+### Minecraft Development
+- Bukkit API
+- Spigot API
+- Paper API
+- Minecraft Plugin Development
+- AntiCheat Development
+- Packet Analysis
+- Event Systems
+- Command Frameworks
+- GUI Systems
+- Staff Utilities
+- TPS Optimization
+- Async Processing
+
+---
+
+# 🧩 Backend Development
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420"/>
+
+</div>
+
+### Backend Knowledge
+- REST APIs
+- Authentication Systems
+- Backend Infrastructure
+- Server Optimization
+- Data Management
+- Performance Optimization
+- Clean Architecture
+- Modular Systems
+
+---
+
+# 🖥️ Development Environment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,git,github,linux"/>
+
+</div>
+
+### Tools I Use
+- IntelliJ IDEA
+- Visual Studio Code
+- Git
+- GitHub
+- Linux Environment
+- Terminal & CLI Tools
+
+---
+
+# 🚀 Additional Knowledge
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
+
+</div>
+
+### Software Development
+- Object-Oriented Programming
+- Clean Code Principles
+- Software Architecture
+- Debugging & Diagnostics
+- Optimization Techniques
+- Modular Development
+- Performance Monitoring
