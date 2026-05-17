@@ -55,12 +55,13 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=gradle"/>
+<img src="https://skillicons.dev/icons?i=gradle,maven"/>
 
 </div>
 
 ### Frameworks & Tools
 - Gradle
+- Maven
 - Groovy DSL
 - Dependency Management
 - Build Automation
