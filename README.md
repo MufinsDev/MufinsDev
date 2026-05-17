@@ -68,3 +68,11 @@
 - Debugging & Diagnostics
 - Software Design
 - Clean Code Principles
+
+# ⚒️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,php,html,css,mysql,gradle,git,github,linux,idea,vscode"/>
+
+</p>
